@@ -1,0 +1,9 @@
+classifier,train_accuracy,val_accuracy,f1_score,best_model
+LogisticRegression(),0.7986316365626711,0.8036769533814839,0.7510407993338885,"LogisticRegression(C=0.39805219032936884, class_weight='balanced', max_iter=608,
+                   solver='sag')"
+SVC(),0.7962233169129722,0.7984241628365069,0.7360275150472915,"SVC(C=100, gamma=0.001, kernel='sigmoid')"
+MultinomialNB(),0.7816639299397921,0.8049901510177282,0.7563576702214931,MultinomialNB(alpha=1)
+LogisticRegression(),0.9852216748768473,0.7951411687458962,0.7470321613261535,"LogisticRegression(C=1.205034749735624, class_weight='balanced', max_iter=537,
+                   solver='sag')"
+SVC(),0.8364532019704434,0.7767564018384767,0.708007006290344,"SVC(C=1, gamma=0.1, kernel='sigmoid')"
+MultinomialNB(),0.9763546798029556,0.8049901510177282,0.7443055003252624,MultinomialNB(alpha=1)
